@@ -7,4 +7,4 @@ Atualmente trabalho com PHP, MySQL e JS na empresa senhasegura e, ultimamente, e
 
 #### Skills :female-construction-worker:
 
-![PHP](./img/php.svg) ![Zend](./img/zend.svg) ![JavaScript](./img/javascript.svg) ![ReactJS](./img/reactjs.svg) ![Redux](./img/redux.svg) ![HTML5](./img/html5.svg) ![CSS3](./img/css3.svg) ![firebase](./img/firebase.svg)  ![MySQL](./img/mysql.svg)
+!["PHP"](./img/php.svg) ![Zend](./img/zend.svg) ![JavaScript](./img/javascript.svg) ![ReactJS](./img/reactjs.svg) ![Redux](./img/redux.svg) ![HTML5](./img/html5.svg) ![CSS3](./img/css3.svg) ![firebase](./img/firebase.svg)  ![MySQL](./img/mysql.svg)
