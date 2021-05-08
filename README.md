@@ -1,4 +1,4 @@
-#### :octocat: Olá! Seja bem vinde ao meu perfil! :wave:
+## :octocat: Olá! Seja bem vinde ao meu perfil! :wave:
 
 Meu nome é Anna Carolina, mas pode me chamar de Anna ou Carol. Sou uma desenvolvedora que busca sempre aprender cada vez mais.
 Atualmente trabalho com PHP, MySQL e JS na empresa senhasegura e, ultimamente, estou estudando ReactJS.
