@@ -43,7 +43,7 @@ Atualmente trabalho com PHP, MySQL e JS na empresa senhasegura e, ultimamente, e
             </p>
             :mortar_board: <b>Tecnologia em Análise e Desenvolvimento de sistemas</b> 
             </br> :calendar: 2016-2019
-            </br> :round_pushpin: Instituto Federal de São Paulo - São Paulo/SP, Brasil
+            </br> :round_pushpin: <b>Instituto Federal de São Paulo</b> - São Paulo/SP, Brasil
         </li>
     </ul>
     </br>
