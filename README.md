@@ -74,7 +74,7 @@ Atualmente trabalho com PHP, MySQL e JS na empresa senhasegura e, ultimamente, e
                 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"  height="20"/>
                 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"  height="20"/>
             </p>
-            :briefcase: <b>Estagiária</b>
+            :briefcase: <b>Estagiária FrontEnd</b>
             </br> :calendar: 2017-2018
             </br> :round_pushpin: <b>Clube Greens</b> - São Paulo/SP, Brasil
         </li>
