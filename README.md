@@ -60,7 +60,7 @@ Atualmente trabalho com PHP, MySQL e JS na empresa senhasegura e, ultimamente, e
                 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"  height="20"/>
             </p>
             :briefcase: <b>Desenvolvedora PHP</b>
-            </br> :calendar: 2018-atual
+            </br> :calendar: 2018-2021
             </br> :round_pushpin: <b>senhasegura - MT4 Tecnologia</b> - São Paulo/SP, Brasil
         </li>
         </br>
