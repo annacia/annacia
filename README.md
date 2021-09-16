@@ -51,12 +51,24 @@ Meu nome é Anna Carolina, mas pode me chamar de Anna ou Carol. Sou uma desenvol
         <li>
             <p align="left">
                 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"  height="20"/>
+                <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"  height="20"/>
+                <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"  height="20"/>
+                <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"  height="20"/>
+                <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"  height="20"/>
+            </p>
+            :briefcase: <b>Desenvolvedora PHP</b>
+            </br> :calendar: 2021-atual
+            </br> :round_pushpin: <b>PicPay</b> - São Paulo/SP, Brasil
+        </li>
+        </br>
+        <li>
+            <p align="left">
+                <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"  height="20"/>
                 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"  height="20"/>
                 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html"  height="20"/>
                 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css"  height="20"/>
                 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"  height="20"/>
                 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"  height="20"/>
-                <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"  height="20"/>
             </p>
             :briefcase: <b>Desenvolvedora PHP</b>
             </br> :calendar: 2018-2021
@@ -71,7 +83,6 @@ Meu nome é Anna Carolina, mas pode me chamar de Anna ou Carol. Sou uma desenvol
                 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"  height="20"/>
                 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"  height="20"/>
                 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"  height="20"/>
-                <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"  height="20"/>
             </p>
             :briefcase: <b>Estagiária FrontEnd</b>
             </br> :calendar: 2017-2018
